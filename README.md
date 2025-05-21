@@ -1,4 +1,9 @@
-﻿Traditional relational database services such as MySQL, PostgreSQL, oracle run on the on-premise environment. With AWS resources such as EC2 instances, Amazon RDS and Amazon Aurora, a more scalable, flexible and reliable infrastructure to host databases can be made available.
+
+
+![image alt](https://github.com/Gertrudechichi/Relational-database/blob/d79b5e74cd2987320cc4fafcc52ed4a290000182/Relational%20database%20infrastructure%20options.png)
+ 
+ 
+ Traditional relational database services such as MySQL, PostgreSQL, oracle run on the on-premise environment. With AWS resources such as EC2 instances, Amazon RDS and Amazon Aurora, a more scalable, flexible and reliable infrastructure to host databases can be made available.
 A database hosted on the on-premise environment can be migrated to the cloud and can benefit from the cloud platform which provides a scalable, flexible and highly available infrastructure. By leveraging database migration service, databases can be migrated to EC2 instances, Amazon RDS or even Amazon Aurora. The database ceases to exit in the data-center (on-premise) and it will run in the cloud environment by leveraging the cloud platforms mentioned.
 
 Ec2 as an Infrastructure as a service can provide the compute power such as CPU, memory and storage needed to run databases in a more efficient manner compared to on-premise data-centers. With an EC2 instance, the user will have complete control over the instance just like having control over storage, Operating system, network CPU on the on-premise data-center. EC2 can also be attached to autoscaling groups to automatically scale in or out, up or down in response to traffic demands which user has control of as well.
@@ -9,10 +14,6 @@ A more managed service is Amazon Aurora. Aurora which provides a serverless plat
 
 
 
-
-
-
-![image alt](https://github.com/Gertrudechichi/Relational-database/blob/d79b5e74cd2987320cc4fafcc52ed4a290000182/Relational%20database%20infrastructure%20options.png)
 
 
 
