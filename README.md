@@ -27,7 +27,67 @@ Overall, relational databases are suitable for data analytics and business intel
 
 
 
-PROCEDURE
+DEMO- Connecting Amazon RDS to MySQL Workbench: A Step-by-Step Guide
+
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20075805.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20075822.png
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20075923.png
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080004.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080132.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080200.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080229.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080648.png
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080711.png
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20080850.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20081001.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20081024.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20081503.png
+
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20081845.png
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20082135.png
+
+
+https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20082241.png
+
 
 
 
