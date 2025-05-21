@@ -21,7 +21,7 @@ A more managed service is Amazon Aurora. Aurora which provides a serverless plat
 
 This demo shows a screenshot of the step by step procedure in creating database instance on the AWS management console. MySQL engine was used and was connected SQL workbench which is an open-source MySQL client. Using the workbench, a database schema was designed using simple SQL queries.
 
-A major challenge was that, the change in IP address due to a change in my location made it impossible to connect to the workbench. After troubleshooting and changing the security group settings to suite the current IP there was a successful connection of the database instance to the MySQL workbench
+A major challenge was that, the change in IP address due to a change in my location made it impossible to connect to the workbench. After troubleshooting and changing the security group settings to suit the current IP there was a successful connection of the database instance to the MySQL workbench.
 
 Overall, relational databases are suitable for data analytics and business intelligence workloads because relational databases have a well defined schema necessary to run queries and derive insights for business operations.  
 
@@ -32,7 +32,7 @@ DEMO- Connecting Amazon RDS to MySQL Workbench: A Step-by-Step Guide
 
 
 
-https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20075805.png
+![image alt](https://github.com/Gertrudechichi/Relational-database/blob/8389ef88541a7fff957230e3f0b6473b08b0f3e6/Screenshot%202025-05-15%20075805.png)
 
 
 
