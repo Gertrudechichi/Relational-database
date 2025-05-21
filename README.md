@@ -6,10 +6,32 @@ The disadvantage of hosting your database on EC2 is that, administrative tasks t
 Amazon RDS is a more managed service by AWS and it supports most of the major traditional database engines such as PostgreSQL and MySQL hosted on premise. Instead of running a database on EC2 instance, a database can be run on Rds. With RDS, AWS manages the patching backups, redundancy and failovers. AWS provides heavy lifting of infrastructure management when RDS is used to run your databases instead of EC2.
 
 A more managed service is Amazon Aurora. Aurora which provides a serverless platform for running databases. Aurora is cost effective highly available and redundant across multiple availability zones.
+
+
+
+
+
+
+![image alt](https://github.com/Gertrudechichi/Relational-database/blob/d79b5e74cd2987320cc4fafcc52ed4a290000182/Relational%20database%20infrastructure%20options.png)
+
+
+
+
+
 This demo shows a screenshot of the step by step procedure in creating database instance on the AWS management console. MySQL engine was used and was connected SQL workbench which is an open-source MySQL client. Using the workbench, a database schema was designed using simple SQL queries.
 
 A major challenge was that, the change in IP address due to a change in my location made it impossible to connect to the workbench. After troubleshooting and changing the security group settings to suite the current IP there was a successful connection of the database instance to the MySQL workbench
 
 Overall, relational databases are suitable for data analytics and business intelligence workloads because relational databases have a well defined schema necessary to run queries and derive insights for business operations.  
+
+
+
+PROCEDURE
+
+
+
+
+
+
 
 
